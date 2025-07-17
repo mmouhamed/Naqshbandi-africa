@@ -1,0 +1,366 @@
+{
+  "home": {
+    "title": "Welcome to Naqshbandi Africa",
+    "description": "A gateway to the light of the Naqshbandiyya Tariqa, a living link with the wisdom of the masters and the love of the Prophet ﷺ.",
+    "subtitle": "On this blessed path, the heart awakens, the soul rises, and the divine presence becomes our dwelling.",
+    "features": {
+      "teachings": {
+        "title": "Spiritual Teachings",
+        "description": "Deepen your understanding through comprehensive courses, videos, and spiritual guidance from the Naqshbandi tradition."
+      },
+      "events": {
+        "title": "Community Events",
+        "description": "Join collective dhikr sessions, spiritual retreats, and special gatherings with the community."
+      },
+      "practices": {
+        "title": "Daily Practices",
+        "description": "Discover sacred practices, awrad, and spiritual exercises to integrate into your daily routine."
+      },
+      "goldenChain": {
+        "title": "Golden Chain",
+        "description": "Explore the spiritual lineage of the 41 masters who form the sacred chain of transmission."
+      },
+      "library": {
+        "title": "Digital Library",
+        "description": "Access a comprehensive collection of Sufi texts, articles, and spiritual resources."
+      },
+      "dhikr": {
+        "title": "Dhikr & Meditation",
+        "description": "Experience guided dhikr sessions and meditation practices for spiritual elevation."
+      }
+    }
+  },
+  "nav": {
+    "teachings": "Teachings",
+    "events": "Events",
+    "practices": "Practices",
+    "goldenChain": "Golden Chain",
+    "library": "Library",
+    "contact": "Contact",
+    "don": "Donate",
+    "practices_awrad": "Awrad",
+    "practices_initie": "Initiation",
+    "practices_prepare": "Preparation",
+    "practices_determination": "Determination",
+    "sacredMonths": "Sacred Months",
+    "sacredMonths_rajab": "Rajab",
+    "sacredMonths_shaban": "Shaban",
+    "sacredMonths_ramadan": "Ramadan",
+    "sacredMonths_dhulHijjah": "Dhul-Hijjah",
+    "goldenChain_timeline": "Timeline",
+    "library_shaykhNazim": "Shaykh Nazim",
+    "library_shaykhHisham": "Shaykh Hisham",
+    "library_hajjahAmina": "Hajjah Amina",
+    "dhikr_khatmKhwajagan": "Khatm Khwajagan",
+    "dhikr_awradQuotidien": "Daily Awrad"
+  },
+  "teachings": {
+    "title": "Spiritual Teachings",
+    "description": "Deepen your inner connection with courses, videos, readings, and documents inspired by the Naqshbandi Tariqa.",
+    "onlineCourses": {
+      "title": "Online Courses",
+      "description": "Deepen your inner connection through courses accessible to everyone:",
+      "courses": [
+        {
+          "title": "Purification of the Heart (Tazkiyat an-Nafs)",
+          "description": "Learn the essential practices for purifying the heart and soul."
+        },
+        {
+          "title": "Adab and Behavior of the Disciple",
+          "description": "Master the proper etiquette and behavior of a spiritual seeker."
+        },
+        {
+          "title": "The Stages of Spiritual Journey (Maqamat)",
+          "description": "Understand the various stages and stations on the spiritual path."
+        }
+      ],
+      "note": "These modules are based on the teachings of Mawlana Shaykh Nazim (qs), Shaykh Hisham (qs) and the sacred tradition."
+    },
+    "videosAudio": {
+      "title": "Videos & Audio",
+      "description": "An inspiring selection to nourish your soul:",
+      "content": [
+        "Sohbas (spiritual discourses)",
+        "Recorded collective dhikr sessions",
+        "Nasheeds & traditional Sufi chants",
+        "Reminders in French, English and Arabic"
+      ],
+      "note": "You can listen and meditate at any time to stay connected with the Presence."
+    },
+    "readingsDocuments": {
+      "title": "Readings & Documents",
+      "description": "Texts to illuminate your path:",
+      "content": [
+        "Digital books of the tariqa (downloadable PDFs)",
+        "Articles on spirituality, inner path, patience, divine love",
+        "Biographies of the Masters of the Naqshbandi chain"
+      ],
+      "note": "A living library of wisdom."
+    }
+  },
+  "events": {
+    "title": "Events",
+    "description": "Discover upcoming collective dhikrs, spiritual retreats, Mawlid, and visits from masters.",
+    "collectiveDhikr": {
+      "title": "Collective Dhikr",
+      "description": "Circles of remembrance of Allah (■) organized monthly",
+      "details": [
+        "Open to all, beginners or advanced",
+        "In person or online (Zoom/WhatsApp)"
+      ],
+      "quote": "Dhikr is light in the darkness.",
+      "author": "Mawlid an-Nabi"
+    },
+    "mawlid": {
+      "title": "Mawlid an-Nabi",
+      "description": "Celebration of the birth of the Beloved Prophet ■",
+      "activities": [
+        "Poems, nasheeds, readings, love and gratitude",
+        "A powerful moment of unity and mercy"
+      ]
+    },
+    "retreats": {
+      "title": "Spiritual Retreats",
+      "description": "Weekends or weeks of silence, dhikr, meditation",
+      "details": [
+        "Zawiya spaces, in nature or indoors",
+        "Objective: 'Hudur' – total Presence with Allah"
+      ]
+    },
+    "masterVisits": {
+      "title": "Master Visits",
+      "description": "Welcoming the shuyukh of the tariqa in Africa",
+      "details": [
+        "Transmitting the direct spiritual link (sohba, rabita, bay'a)",
+        "Blessed moments of guidance"
+      ]
+    }
+  },
+  "practices": {
+    "title": "Daily Practices",
+    "description": "Discover daily practices, awrad, dhikr, and the secrets of the Naqshbandi path.",
+    "awrad": {
+      "title": "Awrad – Litanies",
+      "description": "On this basis Allah has divided the day into three parts: eight hours for worship, eight hours for earning a living and eight hours for sleeping. Anyone who does not accept and follow this division of energies will exemplify the hadith, 'He who is erratic will be erratic in the Hellfire.' He who goes according to his own will and reasoning does not progress and he who wishes to obtain exalted stations, levels and stages which previous generations earned by means of retreats and other spiritual exercises, must remember Allah throughout the day."
+    },
+    "initie": {
+      "title": "The Awrad of the Initiate (Mubtadi')",
+      "description": "The daily practices for those beginning their spiritual journey:",
+      "practices": [
+        "Shahada three times [ash-hadu an la ilaha illallah wa ash-hadu anna Muhammadan `abduhu wa rasaluh]",
+        "Astaghfirullah 70 times",
+        "Fatiha one time with the intention of participating in the blessings sent down with it when it was revealed in Makkah",
+        "Ayat Aman ar-rasula (2:285-286)",
+        "Inshirah (Surat 94) 7 times",
+        "Ikhlas (Surat 112) 11 times"
+      ]
+    },
+    "prepare": {
+      "title": "The Awrad of those who are Prepared (Musta'id)",
+      "description": "The same Awrad as for the Initiated except that:",
+      "practices": [
+        "The Dhikr 'Allah, Allah' is increased from 1500 times to 2500 times by tongue and 2500 times by heart"
+      ]
+    },
+    "determination": {
+      "title": "Determination",
+      "description": "For those with strong determination on the path:",
+      "practices": [
+        "Shahada three times",
+        "Seeking Allah's forgiveness, 'astaghfirullah' 70 times",
+        "Fatiha one time with the intention of participating in the blessings sent down with it when it was revealed in Makkah"
+      ]
+    }
+  },
+  "moisSacres": {
+    "title": "Sacred Months",
+    "description": "Discover the significance and practices of the sacred months in Islam.",
+    "rajab": {
+      "title": "Rajab",
+      "description": "The month of Rajab: virtues, recommended acts, and spiritual opportunities."
+    },
+    "shaban": {
+      "title": "Shaban",
+      "description": "The month of Shaban: its blessings and how to benefit from it."
+    },
+    "ramadan": {
+      "title": "Ramadan",
+      "description": "The month of Ramadan: fasting, worship, and spiritual renewal."
+    },
+    "dhulHijjah": {
+      "title": "Dhul-Hijjah",
+      "description": "The month of Dhul-Hijjah: Hajj, sacrifice, and the ten blessed days."
+    }
+  },
+  "chaineDoree": {
+    "title": "Golden Chain",
+    "description": "Explore the spiritual lineage of the 41 masters of the Naqshbandi tariqa.",
+    "master": {
+      "title": "Master: {master}",
+      "description": "Biography and teachings of {master} in the Golden Chain."
+    },
+    "timeline": {
+      "title": "Golden Chain Timeline",
+      "description": "Explore the interactive timeline of the Naqshbandi Golden Chain."
+    },
+    "masters": [
+      "Prophet Muhammad ibn Abd Allah",
+      "Abu Bakr as-Siddiq",
+      "Salman al-Farsi",
+      "Qasim ibn Muhammad ibn Abu Bakr",
+      "Ja'far as-Sadiq",
+      "Tayfur Abu Yazid al-Bistami",
+      "Abul Hassan Ali al-Kharqani",
+      "Abu Ali al-Farmadi",
+      "Abu Yaqub Yusuf al-Hamadani",
+      "Abul Abbas, al-Khidr",
+      "Abdul Khaliq al-Ghujdawani",
+      "Arif ar-Riwakri",
+      "Khwaja Mahmoud al-Anjir al-Faghnawi",
+      "Ali ar-Ramitani",
+      "Muhammad Baba as-Samasi",
+      "as-Sayyid Amir Kulal",
+      "Muhammad Baha'uddin Shah Naqshband",
+      "Ala'uddin al-Bukhari al-Attar",
+      "Yaqub al-Charkhi",
+      "Ubaydullah al-Ahrar",
+      "Muhammad az-Zahid",
+      "Darwish Muhammad",
+      "Muhammad Khwaja al-Amkanaki",
+      "Muhammad al-Baqi bi-l-Lah",
+      "Ahmad al-Faruqi as-Sirhindi",
+      "Muhammad al-Masum",
+      "Muhammad Sayfuddin al-Faruqi al-Mujaddidi",
+      "as-Sayyid Nur Muhammad al-Bayadouni",
+      "Shamsuddin Habib Allah",
+      "Abdullah ad-Dahlawi",
+      "Khalid al-Baghdadi",
+      "Ismail Muhammad ash-Shirwani",
+      "Khas Muhammad Shirwani",
+      "Muhammad Effendi al-Yaraghi",
+      "Jamaluddin al-Ghumuqi al-Husayni",
+      "Abu Ahmad as-Sughuri",
+      "Abu Muhammad al-Madani",
+      "Sharafuddin ad-Daghestani",
+      "Abdullah al-Fa'iz ad-Daghestani",
+      "Muhammad Nazim Adil al-Haqqani",
+      "Shaykh Hisham Kabbani"
+    ]
+  },
+  "bibliotheque": {
+    "title": "Digital Library",
+    "description": "Access a living library of Sufi books, articles, and documents.",
+    "shaykhNazim": {
+      "title": "Shaykh Muhammad Nazim al-Haqqani",
+      "description": "Books, articles, and resources by or about Shaykh Nazim.",
+      "books": [
+        "Mercy Oceans Book One",
+        "Mercy Oceans Book Two",
+        "Mercy Oceans Divine Oceans",
+        "Mercy Oceans Rising Sun",
+        "Mercy Oceans Emeralds of Eden",
+        "Mercy Oceans Rubies of Resplendence",
+        "Heavenly Wisdom",
+        "Defending Truth",
+        "The Divine Kingdom",
+        "Bridge To Eternity",
+        "Love",
+        "In the Mystic Footsteps of Saints Vol 2",
+        "Liberating the Soul Book 5",
+        "130 Answers From a Sufi Master",
+        "15 Questions"
+      ]
+    },
+    "shaykhHisham": {
+      "title": "Shaykh Muhammad Hisham Kabbani",
+      "description": "Books, articles, and resources by or about Shaykh Hisham.",
+      "books": [
+        "Salafi Movement Unveiled"
+      ]
+    },
+    "hajjahAmina": {
+      "title": "Hajjah Amina Adil",
+      "description": "Books, articles, and resources by or about Hajjah Amina.",
+      "books": [
+        "A Scent of Saintliness",
+        "Ramadan",
+        "Forty Questions"
+      ]
+    },
+    "otherBooks": {
+      "title": "Other Important Books",
+      "books": [
+        {
+          "title": "The Naqshbandi Book of Devotions and Adab of Prayers",
+          "downloads": [
+            "Download PDF (2.3MB)",
+            "Download Word (173KB)"
+          ]
+        },
+        {
+          "title": "Dala'il ul-Khairat (The Guideposts to Goodness) – Imam Jazuli",
+          "downloads": [
+            "View File",
+            "Arabic (Download PDF)"
+          ]
+        },
+        {
+          "title": "As-Salaat al-Mashishiyya",
+          "downloads": []
+        }
+      ]
+    },
+    "book": {
+      "title": "Book: {book}",
+      "description": "Details and download for the book: {book}."
+    }
+  },
+  "dhikr": {
+    "title": "Dhikr & Remembrance",
+    "description": "Learn about the practice and benefits of dhikr in the Naqshbandi tradition.",
+    "khatmKhwajagan": {
+      "title": "Khatm-ul-Khwajagan",
+      "description": "In the Naqshbandi Order, the daily awrad and the weekly congregational dhikr, known as Khatm-ul-Khwajagan, are important principles which the murid must not leave. The Khatm-ul-Khwajagan is done sitting with the Shaykh in congregation. This is held once a week, preferably on Thursday night or Friday, two hours before sunset. The Khatm-ul-Khwajagan is of two categories."
+    },
+    "awradQuotidien": {
+      "title": "Daily Awrad",
+      "description": "The daily awrad: structure, recitations, and spiritual benefits."
+    },
+    "naqshbandiWay": {
+      "title": "The Naqshbandi Way of Dhikr",
+      "description": "What are the differences between the Naqshbandi and other Sufi ways? It is axiomatic that all Sufi paths lead to the Divine Presence. The Prophet (s) said, 'The ways to God are as numerous as the breaths of human beings.' The differences lie mostly in the realm of style and taste, and reflect the need to accommodate the variety of types among the aspirants. Differences also stem from the unique individualities of the great luminaries who imprinted each of the Tariqats — May Allah be pleased with all of them!"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Stay in touch: ask questions, join an event, or organize a spiritual activity.",
+    "intro": "You can contact us for:",
+    "reasons": [
+      "Ask questions about the Sufi path",
+      "Participate in an event",
+      "Organize a spiritual activity in your country",
+      "Request to receive the teachings"
+    ],
+    "contactInfo": {
+      "email": "contact@naqshbandiafrica.com",
+      "whatsapp": "+XXX XX XX XX",
+      "social": "Instagram | Facebook | Telegram"
+    }
+  },
+  "don": {
+    "title": "Make a Donation",
+    "description": "Support the light, spread the guidance. Every donation is a sadaqa jariya.",
+    "intro": "By supporting Naqshbandi Africa, you contribute to:",
+    "contributions": [
+      "Spread the teachings",
+      "Organize dhikrs and retreats",
+      "Provide shelter for local zawiyas",
+      "Print books and produce content"
+    ],
+    "note": "Every donation, small or large, is a sadaqa jariya. A continuous light that will follow you even in the hereafter."
+  },
+  "gateway": {
+    "title": "Spiritual Gateway",
+    "description": "Enter the meditation gateway: audio, breathing, and spiritual focus."
+  }
+} 
