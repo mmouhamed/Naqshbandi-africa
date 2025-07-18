@@ -9,6 +9,7 @@ export async function generateStaticParams() {
     { locale: 'en', book: 'shaykh-nazim' },
     { locale: 'en', book: 'shaykh-hisham' },
     { locale: 'en', book: 'hajjah-amina' },
+    { locale: 'en', book: 'hajjah-amina' },
   ];
 }
 
