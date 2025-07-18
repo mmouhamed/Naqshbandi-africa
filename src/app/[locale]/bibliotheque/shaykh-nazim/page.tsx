@@ -1,5 +1,12 @@
-"use client";
+// File: naqshbandi-africa/src/app/[locale]/bibliotheque/shaykh-nazim/page.tsx
 import { useTranslations } from 'next-intl';
+
+export async function generateStaticParams() {
+  return [
+    { locale: 'fr' },
+    { locale: 'en' },
+  ];
+}
 
 export default function ShaykhNazimPage({ params }: { params: { locale: string } }) {
   const t = useTranslations('bibliotheque.shaykhNazim');
@@ -9,4 +16,4 @@ export default function ShaykhNazimPage({ params }: { params: { locale: string }
       <p className="text-lg text-gray-600">{t('description')}</p>
     </main>
   );
-} 
+}

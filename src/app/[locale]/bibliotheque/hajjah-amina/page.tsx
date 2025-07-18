@@ -1,5 +1,12 @@
-"use client";
+// File: naqshbandi-africa/src/app/[locale]/bibliotheque/hajjah-amina/page.tsx
 import { useTranslations } from 'next-intl';
+
+export async function generateStaticParams() {
+  return [
+    { locale: 'fr' },
+    { locale: 'en' },
+  ];
+}
 
 export default function HajjahAminaPage({ params }: { params: { locale: string } }) {
   const t = useTranslations('bibliotheque.hajjahAmina');
@@ -9,4 +16,4 @@ export default function HajjahAminaPage({ params }: { params: { locale: string }
       <p className="text-lg text-gray-600">{t('description')}</p>
     </main>
   );
-} 
+}
