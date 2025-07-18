@@ -1,5 +1,11 @@
-'use client';
 import { useTranslations } from 'next-intl';
+
+export async function generateStaticParams() {
+  return [
+    { locale: 'fr' },
+    { locale: 'en' },
+  ];
+}
 
 export default function BibliothequePage() {
   const t = useTranslations();
