@@ -1,0 +1,9 @@
+# Redirect root to default locale (French)
+/ /fr/ 302
+
+# Handle locale redirects
+/fr /fr/ 302
+/en /en/ 302
+
+# Handle 404s
+/* /fr/404.html 404
